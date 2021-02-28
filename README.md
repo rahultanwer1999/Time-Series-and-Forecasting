@@ -2,7 +2,8 @@
 
 
 
-This is notebook is created with the help of  Srivatsan Srinivasan sir, you can follow him on * [YouTube] (https://www.youtube.com/playlist?list=PL3N9eeOlCrP5cK0QRQxeJd6GrQvhAtpBK) he is amazing teacher.
+####### This is notebook is created with the help of  Srivatsan Srinivasan sir, you can follow him on 
+  * [YouTube] (https://www.youtube.com/playlist?list=PL3N9eeOlCrP5cK0QRQxeJd6GrQvhAtpBK) he is amazing teacher.
 
 
 # modeliing Techniques , arima, facebook prophet, lstm seq modeling
